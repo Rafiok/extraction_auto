@@ -1,0 +1,42 @@
+{
+    "numero_decret": "2024-1051",
+    "date_de_publication": "24 juillet 2024",
+    "ministere_emetteur": "Présidence de la République",
+    "objet": "Portant approbation du règlement d'urbanisme de la zone littorale et balnéaire",
+    "preambule": "Ce décret est fondé sur diverses lois et décrets visant la constitution, l'environnement, l'aménagement et l'urbanisme de la République du Bénin.",
+    "contenu_des_articles": {
+        "Article_1": "Est approuvé, tel qu'il est annexé au présent décret, le règlement d'urbanisme de la zone littorale et balnéaire en République du Bénin.",
+        "Article_2": "Les ministres concernés sont chargés de l'application du présent décret.",
+        "Article_3": "Le présent décret prend effet dès sa signature et sera publié au Journal officiel."
+    },
+    "definitions": [
+        "Domaine public naturel",
+        "Rivage de la mer",
+        "Zone littorale",
+        "Schéma Directeur d'Aménagement du Littoral",
+        "Schémas Directeurs d'Aménagement Communal"
+    ],
+    "signataires": [
+        {
+            "nom": "Patrice TALON",
+            "fonction": "Président de la République, Chef de l'État, Chef du Gouvernement"
+        },
+        {
+            "nom": "Romuald WADAGNI",
+            "fonction": "Ministre de l'Économie et des Finances, Ministre d'État"
+        },
+        {
+            "nom": "Raphaël Dossou AKOTEGNON",
+            "fonction": "Ministre de la Décentralisation et de la Gouvernance locale"
+        }
+    ],
+    "tableaux": {
+        "description": "Annexe 1 contient des plans de zonage détaillant les différentes classifications géographiques et usages du territoire."
+    },
+    "graphiques_schemas": {
+        "description": "Inclut des schémas relatifs aux prescriptions d'urbanisme spécifiques à chaque zone (ZURO, ZEP, LITT-ZURC, etc.)."
+    },
+    "logos_cachets": {
+        "description": "Cachet officiel de la République du Bénin visible en en-tête, accompagné de Fraternité-Justice-Travail."
+    }
+}

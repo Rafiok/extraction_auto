@@ -1,0 +1,35 @@
+{
+    "numéro_decret": "2024-1051",
+    "date_de_publication": "24 juillet 2024",
+    "ministere_emetteur": "Ministère du Cadre de Vie et des Transports, en charge du Développement durable et Ministère de la Décentralisation et de la Gouvernance locale",
+    "objet": "Approbation du règlement d'urbanisme de la zone littorale et balnéaire en République du Bénin.",
+    "preambule": "Les multiples lois, décisions et mesures mentionnées, fondées sur les codes environnementaux, domaniaux, territoriaux et réglementaires en République du Bénin, motivent l’adoption de ce règlement d’urbanisme pour protéger, aménager et exploiter la zone littorale du pays.",
+    "contenu_des_articles": {
+        "Article_1": "Est approuvé, tel qu'il est annexé au présent décret, le règlement d'urbanisme de la zone littorale et balnéaire en République du Bénin.",
+        "Article_2": "Le Ministre de l'Économie et des Finances, le Ministre du Cadre de Vie et des Transports, chargé du Développement durable et le Ministre de la Décentralisation et de la Gouvernance locale sont chargés, chacun en ce qui le concerne, de l'application du présent décret.",
+        "Article_3": "Le présent décret, qui prend effet pour compter de la date de sa signature, sera publié au Journal officiel."
+    },
+    "definitions": {
+        "Zone Littorale et Balnéaire": "Corridor côtier du Sud du Bénin comprenant littoral sablonneux, lagunes et écosystèmes associés.",
+        "Domaine Public Naturel": "Sites naturels (rivage maritime, cours d'eau, zones humides, mangroves, etc.) dans la bande côtière soumis à protection pour préserver l’équilibre écologique.",
+        "Coefficient d'emprise au sol (CES)": "Proportion maximale de la parcelle de terrain utilisable pour la construction.",
+        "Coefficient d'occupation du sol (COS)": "Indicateur définissant le rapport maximal entre la surface totale du bâtiment et celle de la parcelle."
+    },
+    "signataires": [
+        {
+            "nom": "Patrice TALON",
+            "fonction": "Président de la République, Chef de l'État, Chef du Gouvernement"
+        },
+        {
+            "nom": "Romuald WADAGNI",
+            "fonction": "Ministre de l'Économie et des Finances, Ministre d'État"
+        },
+        {
+            "nom": "Raphaël Dossou AKOTEGNON",
+            "fonction": "Ministre de la Décentralisation et de la Gouvernance locale"
+        }
+    ],
+    "tableaux": "Plans de zonage décrivant les différentes zones spécifiques d’urbanisme (zones résidentielles, zones d’environnement protégé, zones touristiques et zones industrielles).",
+    "graphiques_schemas": "Cartographies et mention des limites géographiques pour la zone littorale et balnéaire, présentées en annexe comme outils visuels réglementaires.",
+    "logos_cachets": "Mention du logo de la Présidence de la République et cachet officiel sur le document."
+}
